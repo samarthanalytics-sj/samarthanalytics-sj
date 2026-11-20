@@ -1,16 +1,15 @@
-## Hi there 👋
+# Swapnil Jaykar
 
-<!--
-**samarthanalytics-sj/samarthanalytics-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web analytics lead with 10 years in measurement. I work across GA4, Google Tag Manager (web and server-side), BigQuery, Looker Studio, Meta CAPI and consent compliance, for clients in the UK, Australia and the US.
 
-Here are some ideas to get you started:
+## What I build
+- MCP servers that let AI assistants read and manage GTM, GA4 and Google Ads, with write-safety checks
+- Server-side GTM templates for US privacy signals
+- Tag monitoring and consent audit tooling
+- Salesforce and HubSpot to BigQuery pipelines on Cloud Run
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public work
+- [samarth-analytics-mcp](https://github.com/samarthanalytics-sj/samarth-analytics-mcp): MCP server for GTM operations
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/swapnil-jaykar/)
