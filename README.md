@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/swapnil-jaykar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Based_in-Pune,_India-30363D?style=for-the-badge" alt="Based in Pune, India"/>
   <img src="https://img.shields.io/badge/Clients-UK_%7C_AU_%7C_US-30363D?style=for-the-badge" alt="Clients in UK, AU and US"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86_Stape_Relay_2026-1st_Prize-D4A017?style=for-the-badge" alt="Stape Relay 2026 1st Prize"/>
 </p>
 
 ---
@@ -13,6 +14,10 @@
 ### About
 
 I have spent 10 years setting up tracking and reporting for brands and agencies. I design tracking plans, build web and server-side tagging, fix attribution gaps, and turn raw event data into reporting that teams use.
+
+### Recognition
+
+- **1st prize, Stape Relay 2026.** Winning proposal for a US Privacy Signals variable template for server-side GTM, submitted with the Uplers team.
 
 ### What I work on
 
@@ -46,7 +51,7 @@ I have spent 10 years setting up tracking and reporting for brands and agencies.
 
 ### Currently
 
-- Building a server-side GTM variable template for US privacy signals
+- Building the US Privacy Signals server-side GTM template from our Stape Relay winning proposal
 - Building tag monitoring and consent audit tooling
 
 ### Contact
